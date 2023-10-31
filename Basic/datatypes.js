@@ -21,5 +21,12 @@ console.log(typeof false)
 console.log(typeof null)
 console.log(typeof undefined)
 console.log(typeof Symbol)
+//----------------------------------------------------------or--------------
+console.log(typeof("satish"))
+console.log(typeof (456))
+console.log(typeof (false))
+console.log(typeof (null))
+console.log(typeof (undefined))
+console.log(typeof (Symbol))
 
 //    using this command run the code "node Basic/datatypes.js"
